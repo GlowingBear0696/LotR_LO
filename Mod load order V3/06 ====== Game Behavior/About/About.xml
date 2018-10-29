@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>06 ====== Game Behavior</name>
+	<author>GlowingBear0696</author>
+	<url>https://github.com/GlowingBear0696/LotR_LO</url>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>&lt;color=yellow&gt;&lt;size=24&gt;What goes below this load order divider:&lt;/size&gt;&lt;/color&gt;
+
+&lt;color=green&gt;-Game Behavior:&lt;/color&gt;
+While You're Up and Hand Me That Brick go here, but so do things like Steel Isn't Flammable and Fewer Inferno Cannons. Basically it's anything that changes how pawns, items, buildings, or events behave. Emphasis on "GAME" behavior.
+
+
+&lt;color=yellow&gt;&lt;size=24&gt;Contributors&lt;/size&gt;&lt;/color&gt;
+
+Trisscar: For this wonderful load order guide and inspiration.
+
+
+&lt;color=yellow&gt;================================================
+Full Guide (below here) -- Courtesy of Trisscar on Discord
+================================================&lt;/color&gt;
+
+MOD ORDER GUIDE VERSION 3: Dangit Tynan Why You Do Dis Edition
+
+This list has come about through the most scientific of processes. IE vague logic and random pings at others to see if it solves various issues.
+
+---From top to bottom:
+
+&lt;color=green&gt;--Core, Hugslib, Jecstools, Humanoid, Prepare Carefully (PC could possibly also go at the bottom of this list, it also has various issues that require arcane methods to get around):&lt;/color&gt;
+Core includes libraries, if something says it has no content, and just has code for other mods, that is a library.
+
+THEN
+
+Giddy Up and all expansions of such should go right below Humanoid, and then Doors, then Third Age. If you are running Combat Extended, it is theorized that it should go right above Third Age, and the patch to both goes right below both.
+
+AFTER ALL OF THAT
+
+&lt;color=green&gt;-Map Generation:&lt;/color&gt;
+Anything that adds biomes, messes with how tiles and maps work, or changes how the world map generates.
+
+&lt;color=green&gt;-Factions:&lt;/color&gt;
+Anything that ONLY adds new factions, not new races or types of pawns. Faction Control by Rainbeau also goes here.
+
+&lt;color=green&gt;-Trait Mods:&lt;/color&gt;
+Rainbeau has made a few of these, for example. If it just adds traits, or makes it possible to have more, it goes here.
+
+&lt;color=green&gt;-Medical Mods:&lt;/color&gt;
+Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical items. EPOE and Rah's are examples of medical mods.
+
+&lt;color=green&gt;-Game Behavior:&lt;/color&gt;
+While You're Up and Hand Me That Brick go here, but so do things like Steel Isn't Flammable and Fewer Inferno Cannons. Basically it's anything that changes how pawns, items, buildings, or events behave. Emphasis on "GAME" behavior.
+
+&lt;color=green&gt;-Items:&lt;/color&gt;
+Clothing, hair, buildings, and items; hats and weapons and Vegetable Garden and giant nuclear power plants go here.
+
+&lt;color=green&gt;-Races (and new animals):&lt;/color&gt;
+RACES GO AT THE BOTTOM THIS IS NOT A DRILL.
+This also includes Arachnophobia, Werewolves, Vampires, and other mods that make massive changes to pawns just by being loaded.
+
+	</description>
+</ModMetaData>
