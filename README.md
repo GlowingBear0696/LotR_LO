@@ -34,6 +34,15 @@ Then find and activate.
 Simple, eh?.
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
+## Acknowledgments
+
+* Trisscar on Discord
+
 
 ## Full Guide (below here) -- Courtesy of Trisscar on Discord
 
