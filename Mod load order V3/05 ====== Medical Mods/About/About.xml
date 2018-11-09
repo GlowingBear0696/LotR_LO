@@ -8,7 +8,7 @@
 	<description>&lt;color=yellow&gt;&lt;size=24&gt;What goes below this load order divider:&lt;/size&gt;&lt;/color&gt;
 
 &lt;color=green&gt;-Medical Mods:&lt;/color&gt;
-Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical items. EPOE and Rah's are examples of medical mods.
+&lt;i&gt;Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical tiems. EPOE and Rah's and A Dog Said and Archotech are examples of medical mods.&lt;/i&gt;
 
 
 &lt;color=yellow&gt;&lt;size=24&gt;Contributors&lt;/size&gt;&lt;/color&gt;
@@ -16,46 +16,73 @@ Yes this includes those that add new bionic parts. No it does not include mods t
 Trisscar: For this wonderful load order guide and inspiration.
 
 
+&lt;color=yellow&gt;========================
+&lt;size=24&gt;Changelog&lt;/size&gt;
+========================&lt;/color&gt;
+1.0.1 (11-09-2018)
+========================
+Updated to v4 of Trisscar's Load Order Guide.
+
+1.0.0 (10-29-2018)
+========================
+Initial release for RimWorld 1.0
+
+
+
 &lt;color=yellow&gt;================================================
 Full Guide (below here) -- Courtesy of Trisscar on Discord
 ================================================&lt;/color&gt;
 
-MOD ORDER GUIDE VERSION 3: Dangit Tynan Why You Do Dis Edition
+Mod Order Guide V4
+Credit-'Chevalier XLIV' for readable format, as opposed to previous wall-of-text eye bleeding.
 
-This list has come about through the most scientific of processes. IE vague logic and random pings at others to see if it solves various issues.
+&lt;color=green&gt;-Core:&lt;/color&gt;
+Core
+Hugslib
+Jecstools
+Humanoid
+!Prepare Carefully! - &lt;i&gt;Either here, or bottom of the mod list, occasional weird issues.&lt;/i&gt;
 
----From top to bottom:
-
-&lt;color=green&gt;--Core, Hugslib, Jecstools, Humanoid, Prepare Carefully (PC could possibly also go at the bottom of this list, it also has various issues that require arcane methods to get around):&lt;/color&gt;
-Core includes libraries, if something says it has no content, and just has code for other mods, that is a library.
+Libraries - &lt;i&gt;Core file packets, if something says it has no content, just code for other mods to build from, that's a library.&lt;/i&gt;
+&lt;i&gt;Terra Core goes here.&lt;/i&gt;
 
 THEN
 
-Giddy Up and all expansions of such should go right below Humanoid, and then Doors, then Third Age. If you are running Combat Extended, it is theorized that it should go right above Third Age, and the patch to both goes right below both.
+&lt;i&gt;immediately after libraries&lt;/i&gt;
+Giddy-up Core
+Giddy-up Addons
+Exp. Doors
+Third Age
+&lt;i&gt;If running Combat Extended, it is theorized that it should go right above Third Age, patch to both goes right below both.&lt;/i&gt;
+&lt;i&gt;In theory Rimworld of Magic goes here.&lt;/i&gt;
 
 AFTER ALL OF THAT
 
 &lt;color=green&gt;-Map Generation:&lt;/color&gt;
-Anything that adds biomes, messes with how tiles and maps work, or changes how the world map generates.
+&lt;i&gt;Anything that adds biomes, messes with how maps work, or changes how the world map generates. Grand Rivers and Archipelagos go here.&lt;/i&gt;
 
 &lt;color=green&gt;-Factions:&lt;/color&gt;
-Anything that ONLY adds new factions, not new races or types of pawns. Faction Control by Rainbeau also goes here.
+&lt;i&gt;Anything that ONLY adds new factions, not new races or types of pawns. Faction Control goes here.&lt;/i&gt;
 
 &lt;color=green&gt;-Trait Mods:&lt;/color&gt;
-Rainbeau has made a few of these, for example. If it just adds traits, or makes it possible to have more, it goes here.
+&lt;i&gt;Rainbeau's made a few of these. If it just adds traits, or adds slots, it goes here.&lt;/i&gt;
 
 &lt;color=green&gt;-Medical Mods:&lt;/color&gt;
-Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical items. EPOE and Rah's are examples of medical mods.
+&lt;i&gt;Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical tiems. EPOE and Rah's and A Dog Said and Archotech are examples of medical mods.&lt;/i&gt;
 
 &lt;color=green&gt;-Game Behavior:&lt;/color&gt;
-While You're Up and Hand Me That Brick go here, but so do things like Steel Isn't Flammable and Fewer Inferno Cannons. Basically it's anything that changes how pawns, items, buildings, or events behave. Emphasis on "GAME" behavior.
+&lt;i&gt;While You're Up/Hand Me That Brick go here, but ALSO mods like Steel Isn't Flammable, Fewer Inferno Cannons and Greenworld, anything that changes how pawns, items, buildings, or events behave. Emphasis on GAME behaviour.&lt;/i&gt;
 
 &lt;color=green&gt;-Items:&lt;/color&gt;
-Clothing, hair, buildings, and items; hats and weapons and Vegetable Garden and giant nuclear power plants go here.
+&lt;i&gt;Clothing, hair, buildings, items; hats, weapons, Vegetable Garden, nuclear power plants, Rimfactory, Climate Control and Advanced Bridges.&lt;/i&gt;
 
 &lt;color=green&gt;-Races (and new animals):&lt;/color&gt;
-RACES GO AT THE BOTTOM THIS IS NOT A DRILL.
-This also includes Arachnophobia, Werewolves, Vampires, and other mods that make massive changes to pawns just by being loaded.
+!!RACES GO AT THE BOTTOM THIS IS NOT A DRILL!!
+&lt;i&gt;Includes Animal Collab, Arachnophobia, Werewolves, Vampires, and other mods that make massive changes to pawns just by being loaded.&lt;/i&gt;
+
+
+&lt;i&gt;Sometimes two mods will conflict, and might be fixed by putting one of them above the other when it otherwise wouldn't be. Try this if you have done everything else here and the error still occurs.&lt;/i&gt;
+
 
 	</description>
 </ModMetaData>

@@ -46,41 +46,53 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Full Guide (below here) -- Courtesy of Trisscar on Discord
 
-MOD ORDER GUIDE VERSION 3: Dangit Tynan Why You Do Dis Edition
+Mod Order Guide V4
+Credit-'Chevalier XLIV' for readable format, as opposed to previous wall-of-text eye bleeding.
 
-This list has come about through the most scientific of processes. IE vague logic and random pings at others to see if it solves various issues.
+-Core:
+Hugslib
+Jecstools
+Humanoid
+!Prepare Carefully! - Either here, or bottom of the mod list, occasional weird issues.
 
-
----From top to bottom:
-
---Core, Hugslib, Jecstools, Humanoid, Prepare Carefully (PC could possibly also go at the bottom of this list, it also has various issues that require arcane methods to get around):
-Core includes libraries, if something says it has no content, and just has code for other mods, that is a library.
+Libraries - Core file packets, if something says it has no content, just code for other mods to build from, that's a library.
+Terra Core goes here.
 
 THEN
 
-Giddy Up and all expansions of such should go right below Humanoid, and then Doors, then Third Age. If you are running Combat Extended, it is theorized that it should go right above Third Age, and the patch to both goes right below both.
+immediately after libraries
+Giddy-up Core
+Giddy-up Addons
+Exp. Doors
+Third Age
+If running Combat Extended, it is theorized that it should go right above Third Age, patch to both goes right below both.
+In theory Rimworld of Magic goes here.
 
 AFTER ALL OF THAT
 
 
 -Map Generation:
-Anything that adds biomes, messes with how tiles and maps work, or changes how the world map generates.
+Anything that adds biomes, messes with how maps work, or changes how the world map generates. Grand Rivers and Archipelagos go here.
 
 -Factions:
-Anything that ONLY adds new factions, not new races or types of pawns. Faction Control by Rainbeau also goes here.
+Anything that ONLY adds new factions, not new races or types of pawns. Faction Control goes here.
 
--Trait Mods:
-Rainbeau has made a few of these, for example. If it just adds traits, or makes it possible to have more, it goes here.
+-Traits:
+Rainbeau's made a few of these. If it just adds traits, or adds slots, it goes here.
 
--Medical Mods:
-Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical items. EPOE and Rah's are examples of medical mods.
+-Medical:
+Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical tiems. EPOE and Rah's and A Dog Said and Archotech are examples of medical mods.
 
--Game Behavior:
-While You're Up and Hand Me That Brick go here, but so do things like Steel Isn't Flammable and Fewer Inferno Cannons. Basically it's anything that changes how pawns, items, buildings, or events behave. Emphasis on "GAME" behavior.
+-Game Behaviour/Mechanics Mods:
+While You're Up/Hand Me That Brick go here, but ALSO mods like Steel Isn't Flammable, Fewer Inferno Cannons and Greenworld, anything that changes how pawns, items, buildings, or events behave. Emphasis on GAME behaviour.
 
 -Items:
-Clothing, hair, buildings, and items; hats and weapons and Vegetable Garden and giant nuclear power plants go here.
+Clothing, hair, buildings, items; hats, weapons, Vegetable Garden, nuclear power plants, Rimfactory, Climate Control and Advanced Bridges.
 
--Races (and new animals):
-RACES GO AT THE BOTTOM THIS IS NOT A DRILL. This also includes Arachnophobia, Werewolves, Vampires, and other mods that make massive changes to pawns just by being loaded.
+-Race/Animal Mods:
+!!RACES GO AT THE BOTTOM THIS IS NOT A DRILL!!
+Includes Animal Collab, Arachnophobia, Werewolves, Vampires, and other mods that make massive changes to pawns just by being loaded.
 
+
+
+Sometimes two mods will conflict, and might be fixed by putting one of them above the other when it otherwise wouldn't be. Try this if you have done everything else here and the error still occurs.
