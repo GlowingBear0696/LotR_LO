@@ -81,7 +81,7 @@ AFTER ALL OF THAT
 *Rainbeau's made a few of these. If it just adds traits, or adds slots, it goes here.*
 
 -Medical:
-*Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical tiems. EPOE and Rah's and A Dog Said and Archotech are examples of medical mods.*
+*Yes this includes those that add new bionic parts. No it does not include mods that ONLY add medical items. EPOE and Rah's and A Dog Said and Archotech are examples of medical mods.*
 
 -Game Behaviour/Mechanics Mods:
 *While You're Up/Hand Me That Brick go here, but ALSO mods like Steel Isn't Flammable, Fewer Inferno Cannons and Greenworld, anything that changes how pawns, items, buildings, or events behave. Emphasis on GAME behaviour.*
