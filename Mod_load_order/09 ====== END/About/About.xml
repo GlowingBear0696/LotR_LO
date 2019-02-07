@@ -4,7 +4,7 @@
 	<name>09 ====== END ======</name>
 	<author>GlowingBear0696</author>
 	<url>https://github.com/GlowingBear0696/LotR_LO</url>
-	<targetVersion>1.0.2059</targetVersion>
+	<supportedVersions><li>1.0</li></supportedVersions>
 	<description>&lt;color=yellow&gt;&lt;size=24&gt;What goes below this load order divider:&lt;/size&gt;&lt;/color&gt;
 
 &lt;color=green&gt;This is just a placeholder for the END&lt;/color&gt;
